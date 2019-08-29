@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: bacground
+    uniqueID: 574567967
+    locked: 0
+  - name: Picture
+    uniqueID: 1839698951
+    locked: 0
